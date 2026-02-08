@@ -1,65 +1,44 @@
 ### Hi there 👋
 ## let's evlo to new
 
-I'm **Balazev enkat**, an **Embedded Systems Engineer in training** with a strong background in **ECE** and hands-on experience in **microcontroller programming, communication protocols, and bare-metal C development**.
+## Hi 👋 I'm Balazev enkat
+
+**Embedded Systems Engineer (ECE)**  
+Embedded C | ARM | UART | SPI | I2C | CAN
 
 ---
 
-### 🔧 About Me
-- 🎓 B.Tech in **Electronics & Communication Engineering (ECE)**
-- 💻 Focused on **Embedded Systems & Firmware Development**
-- ⚡ Passionate about **low-level programming, hardware–software integration**
-- 🧠 Strong in **debugging, logic building, and protocol understanding**
-
----
-
-### 🧰 Embedded Skills
-- **Programming:** C (Embedded C), Basic C++, Python  
+### 🔧 Skills
+- **Programming:** Embedded C, C++, Python  
 - **Microcontrollers:** ARM7 (LPC21xx), Arduino  
-- **Communication Protocols:** UART, SPI, I2C, CAN  
-- **Peripherals:** ADC, RTC, EEPROM, GPIO, Timers  
-- **Concepts:** Interrupts, Registers, Memory-mapped I/O, Bare-metal programming  
+- **Protocols:** UART, SPI, I2C, CAN  
+- **Peripherals:** ADC, RTC, EEPROM, GPIO, Timers, LCD  
 - **Tools:** Keil µVision, Proteus, Git, Linux basics  
 
 ---
 
-### 🛠️ Projects
-- 🔹 **IoT-Based Dual Mode Set-Point Control System**  
-  - UART-based Wi-Fi communication  
-  - SPI-based EEPROM for data storage  
-  - ADC + LM35 for temperature sensing  
-  - LCD for real-time monitoring  
-🔹 Time Guard Access Shield System
-- Designed an **embedded access control system** for time-based authorization  
-- Implemented **RTC-based scheduling** to allow or restrict access  
-- 🔹 **Smart Ration Distribution System (IoT)**  
-  - Embedded control with secure data handling  
+### 🛠️ Key Projects
+- **IoT Dual Mode Set-Point Control System**  
+  UART-based Wi-Fi communication, SPI EEPROM, ADC (LM35), LCD display  
 
-- 🔹 **Employee Management System** (Java + SQL)  
-  *(Supporting software skills)*
+- **Time Guard Access Shield System**  
+  RTC-based time-controlled access system using GPIO and interrupts  
+
+- **Smart Ration Distribution System (IoT)**  
+  Embedded-controlled secure distribution system  
 
 ---
 
 ### 🌱 Currently Learning
-- ARM Cortex-M Architecture  
-- RTOS fundamentals  
-- Embedded Linux basics  
-- Advanced protocol debugging  
+ARM Cortex-M, RTOS fundamentals, Embedded Linux basics  
 
 ---
 
-### 🤝 Looking For
-- Embedded Firmware / Embedded Engineer roles  
-- Hands-on embedded projects & collaboration  
-- Learning opportunities in **automotive, IoT, or industrial embedded systems**
+### 📫 Contact
+📧 **balazevenkat@gmail.com**  
+🔗 **github.com/Balazev enkat**
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: **balazevenkat@gmail.com**
-- 💼 GitHub: [https://github.com/Balazevenkat](https://github.com/Balazevenkat)
+⚡ *I enjoy working close to hardware where timing, registers, and reliability matter.*
 
----
-
-### ⚡ Fun Fact
-I enjoy working **close to hardware**, where every bit and register matters.
