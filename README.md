@@ -29,7 +29,9 @@ I'm **Balazev enkat**, an **Embedded Systems Engineer in training** with a stron
   - SPI-based EEPROM for data storage  
   - ADC + LM35 for temperature sensing  
   - LCD for real-time monitoring  
-
+🔹 Time Guard Access Shield System
+- Designed an **embedded access control system** for time-based authorization  
+- Implemented **RTC-based scheduling** to allow or restrict access  
 - 🔹 **Smart Ration Distribution System (IoT)**  
   - Embedded control with secure data handling  
 
