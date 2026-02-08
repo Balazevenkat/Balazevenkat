@@ -4,7 +4,7 @@
 ## Hi 👋 I'm Balazev enkat
 
 **Embedded Systems Engineer (ECE)**  
-Embedded C | ARM | UART | SPI | I2C | CAN
+C | C++| Embedded C | ARM | UART | SPI | I2C | CAN
 
 ---
 
