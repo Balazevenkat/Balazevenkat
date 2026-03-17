@@ -4,16 +4,17 @@
 ## Hi 👋 I'm Balazev enkat
 
 **Embedded Systems Engineer (ECE)**  
-C | C++| Embedded C | ARM | UART | SPI | I2C | CAN
+C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 
 ---
 
 ### 🔧 Skills
-- **Programming:** Embedded C, C++, Python  
+- **Programming:** Embedded C, C++.  
 - **Microcontrollers:** ARM7 (LPC21xx), Arduino  
 - **Protocols:** UART, SPI, I2C, CAN  
 - **Peripherals:** ADC, RTC, EEPROM, GPIO, Timers, LCD  
-- **Tools:** Keil µVision, Proteus, Git, Linux basics  
+- **Tools:** Keil µVision, Proteus, Git, Linux
+- **Networking:** TCP/IP  
 
 ---
 
