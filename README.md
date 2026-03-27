@@ -3,7 +3,7 @@
 
 ## Hi 👋 I'm Balaze venkat
 
-**Embedded Systems Engineer (ECE)**  
+**Embedded Systems Engineer / (ECE)**  
 C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 
 ---
