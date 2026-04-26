@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaze&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balazevenkat&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ## Hi 👋 I'm Balaze venkat
