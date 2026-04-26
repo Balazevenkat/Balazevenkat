@@ -1,13 +1,10 @@
 ### Hi there 👋
 ## let's evlo to new
 ## 📊 Current Streak:
-<!--<p align="center">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morlabhaskar&hide_border=true&no-bg=true&no-                            frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
-</p>-->
+
 
 <p align="center">
-  <!--<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&hide_border=true&theme=transparent" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morlabhaskar&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaze&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ## Hi 👋 I'm Balaze venkat
