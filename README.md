@@ -33,6 +33,7 @@ C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 <a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
 </p>&nbsp; &nbsp; &nbsp;-->
 ![Profile Views](https://komarev.com/ghpvc/?username=Balazevenkat&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### 🛠️ Key Projects
