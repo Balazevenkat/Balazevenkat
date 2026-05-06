@@ -23,6 +23,9 @@ C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 - **Networking:** TCP/IP  
 
 ---
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morlabhaskar&theme=transparent" height="180em" alt="Commitments"/>
+</div>
 &nbsp; &nbsp; &nbsp;
 <!--<p align="center"> 
   <a href="https://www.linkedin.com/in/morlabhaskar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
