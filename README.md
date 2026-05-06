@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## let's evolve to new
+![Profile Views](https://komarev.com/ghpvc/?username=Balazevenkat&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Hi 👋 I'm Balaze venkat
 ## 📊 Current Streak:
