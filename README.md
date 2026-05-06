@@ -24,7 +24,7 @@ C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 
 ---
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morlabhaskar&theme=transparent" height="180em" alt="Commitments"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balazevenkat&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 &nbsp; &nbsp; &nbsp;
 <!--<p align="center"> 
