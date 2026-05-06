@@ -24,6 +24,12 @@ C | C++| Embedded C | ARM | LINUX | TCP/IP | UART | SPI | I2C | CAN
 
 ---
 
+<!--<p align="center"> 
+  <a href="https://www.linkedin.com/in/morlabhaskar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/morlabhaskar306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/morlabhaskar306/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/BhaskarMorla/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhaskarmorla/" height="30" width="40" /></a>
+</p>&nbsp; &nbsp; &nbsp;-->
+
 ### 🛠️ Key Projects
 - **IoT Dual Mode Set-Point Control System**  
   UART-based Wi-Fi communication, SPI EEPROM, ADC (LM35), LCD display  
